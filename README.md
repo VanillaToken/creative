@@ -1,5 +1,5 @@
 # Creative
-All images, logos, and assets related to this project.
+All images, logos, and assets related to the [Vanilla Token](http://vanillatoken.com) project.
 
 ## Brand
 The idea is that vanilla ice-cream is plain, but you can add different things to it and have a completely different flavor, even with the same base. The cone is supposed to look like a `V` for Vanilla.
